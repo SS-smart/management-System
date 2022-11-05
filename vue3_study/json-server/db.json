@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-serve",
+      "author": "typicode"
+    },
+    {
+      "number": "12343",
+      "name": "邵帅",
+      "id": 3
+    },
+    {
+      "number": "12343",
+      "name": "邵帅",
+      "id": 4
+    },
+    {
+      "number": "12343",
+      "name": "邵帅",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "some comments",
+      "posId": 1
+    }
+  ]
+}
